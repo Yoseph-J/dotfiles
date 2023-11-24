@@ -17,4 +17,4 @@ vim.g.localmapleader = " "
 
 require("lazy").setup("plugins")
 
-require("config.options")
+require("config")
