@@ -9,6 +9,13 @@ return {
     -- Enable 'luka-reineke/indent-blankline.nvim'
     -- See ':help ibl'
     main = "ibl",
-    opts = {},
+    opts = {
+      indent = {
+        smart_indent_cap = true,
+      },
+      scope = { 
+        enabled = true,
+      },
+    },
   },
 }
