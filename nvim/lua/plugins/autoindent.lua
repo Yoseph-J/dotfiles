@@ -13,7 +13,7 @@ return {
       indent = {
         smart_indent_cap = true,
       },
-      scope = { 
+      scope = {
         enabled = true,
       },
     },
