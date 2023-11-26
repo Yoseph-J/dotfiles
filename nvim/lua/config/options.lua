@@ -12,3 +12,7 @@ vim.opt.shiftwidth = 4
 -- line number options
 vim.opt.number = true
 vim.opt.relativenumber = true
+
+-- search case options
+vim.opt.smartcase = false
+vim.opt.ignorecase = true
