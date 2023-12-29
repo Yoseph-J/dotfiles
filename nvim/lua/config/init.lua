@@ -1,6 +1,0 @@
-require("config.options")
-require("config.keymaps")
-require("config.telescope-setup")
-require("config.treesitter-setup")
-require("config.lsp-setup")
-require("config.cmp-setup")
