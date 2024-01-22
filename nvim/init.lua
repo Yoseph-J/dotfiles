@@ -3,3 +3,4 @@ vim.g.maplocalleader = " "
 
 require("lazy-bootstrap")
 require("lazy-plugin")
+require("config")
